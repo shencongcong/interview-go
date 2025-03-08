@@ -1,0 +1,11 @@
+[book]
+authors = ["小意"]
+description = "golang面试"
+language = "zh"
+src = "."
+title = "golang面试题汇总"
+
+[output.html]
+git-repository-icon = "fa-github"
+git-repository-url = "https://github.com/shencongcong/interview-go"
+edit-url-template = "https://github.com/shencongcong/interview-go/edit/master/{path}"
